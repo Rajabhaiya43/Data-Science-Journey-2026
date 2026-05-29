@@ -1,60 +1,126 @@
 # 🚀 Data Science Journey 2026
 
-## 📚 Technologies & Tools I Am Learning
+<div align="center">
 
-<p align="center">
+### From Beginner to Data Scientist in 60 Days
 
-<img src="https://skillicons.dev/icons?i=python" height="80"/>
-<img src="https://skillicons.dev/icons?i=git" height="80"/>
-<img src="https://skillicons.dev/icons?i=github" height="80"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="80"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="80"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="80"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="80"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,tensorflow,pytorch,docker,mongodb,linux,fastapi" />
 
-</p>
+<br><br>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Rajabhaiya43&label=Repository+Views&color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/Rajabhaiya43/Data-Science-Journey-2026?style=social)
 
-## 🎯 Goal
-
-Become a Job-Ready Data Scientist in 60 Days
+</div>
 
 ---
 
-## 🗺️ Roadmap
+# 🎯 Mission
 
-✅ Python
-
-⬜ SQL
-
-⬜ Statistics
-
-⬜ Data Analysis
-
-⬜ Data Visualization
-
-⬜ Machine Learning
-
-⬜ Deep Learning
-
-⬜ Projects
-
-⬜ Kaggle
+My goal is to become a **Job-Ready Data Scientist** by building real-world projects, mastering data analysis, machine learning, and maintaining complete consistency for 60 days.
 
 ---
 
-## 📅 Progress
+# 🛠 Tech Stack & Tools
 
-### Day 01
-- Git Setup
-- GitHub Setup
-- First Commit
+### Programming
+🐍 Python
+
+### Databases
+🗄 SQL (MySQL)
+
+### Data Analysis
+📊 Pandas  
+🔢 NumPy
+
+### Data Visualization
+📈 Matplotlib  
+📉 Seaborn
+
+### Machine Learning
+🤖 Scikit-Learn
+
+### Deep Learning
+🧠 TensorFlow  
+🔥 PyTorch
+
+### Development Tools
+💻 VS Code  
+🌿 Git  
+📂 GitHub
+
+---
+
+# 🗺 Roadmap
+
+- [x] Git & GitHub Setup
+- [ ] Python Fundamentals
+- [ ] Object-Oriented Programming
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Data Visualization
+- [ ] Statistics
+- [ ] SQL
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Kaggle Projects
+- [ ] End-to-End Projects
+- [ ] Portfolio Building
+
+---
+
+# 📅 Daily Progress
+
+## Day 01 ✅
+
 - Repository Created
+- Git Installed
+- GitHub Configured
+- First Commit Completed
+- Data Science Challenge Started
 
 ---
 
-🔥 Challenge Accepted<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,tensorflow,pytorch,anaconda,linux,docker,fastapi,mongodb" />
-</p># Data-Science-Journey-2026
-My 60-Day Data Science Challenge
+# 🚀 Projects To Build
+
+- Diabetes Prediction System
+- House Price Prediction
+- IPL Data Analysis
+- Customer Segmentation
+- Women's Safety Analytics Dashboard
+- Smart Waste Detection System
+
+---
+
+# 📊 Learning Progress
+
+| Skill | Progress |
+|---------|----------|
+| Python | 🟩 5% |
+| SQL | ⬜ 0% |
+| Statistics | ⬜ 0% |
+| Data Analysis | ⬜ 0% |
+| Machine Learning | ⬜ 0% |
+| Projects | ⬜ 0% |
+
+---
+
+# 🔥 Challenge Rules
+
+✅ Learn Every Day  
+✅ Push Code Daily  
+✅ Build Projects  
+✅ No Excuses  
+✅ Track Progress Publicly
+
+---
+
+<div align="center">
+
+## 💪 Challenge Accepted
+
+### "Consistency Beats Talent When Talent Doesn't Work."
+
+⭐ Star this repository and follow the journey.
+
+</div>
